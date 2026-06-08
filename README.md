@@ -1,158 +1,67 @@
-<h1 align="center">Hi 👋, I'm Chirag</h1>
-
-<h3 align="center">Cloud • Infrastructure • Automation • AI</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=PowerShell+%7C+Bash+%7C+Python;Azure+%7C+AWS+%7C+VMware+%7C+Citrix;AI+%7C+Automation+%7C+Infrastructure;Building+Smart+Solutions+with+AI;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chiragnk1133&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
 # 💫 About Me
 
-## 🚀 Building with AI, Automation & Infrastructure
+## 🚀 Senior Cloud Specialist | Azure | VMware | Windows Server | Citrix | AI Integration
 
-⚡ PowerShell  
-⚡ Bash  
-⚡ Python  
-⚡ AI & Automation
+Cloud & Infrastructure professional with 9+ years of experience designing, implementing, and modernizing enterprise infrastructure across Azure, AWS, and hybrid environments.
 
-### 🛠️ Experience & Interests
-
-- Automation & Automation Testing
-- Windows & Linux Administration
-- VMware & Citrix Technologies
-- Azure & AWS Cloud Platforms
-- Infrastructure & Operations
-- Scripting & Workflow Automation
-- AI, LLMs & Intelligent Agents
-- API Integrations & Productivity Systems
+I specialize in cloud architecture, infrastructure automation, virtualization, security, and operational excellence. My focus is on building scalable, secure, and cost-efficient solutions that help organizations modernize and grow.
 
 ### 🔭 Current Focus
 
-- AI Agents & Agentic Workflows
+- AI Agents & AI-Powered Operations
 - Infrastructure Automation
-- Cloud Operations
-- Automation Testing
-- LLM Integrations
-- Python-Based Tooling
+- Cloud Architecture
+- Hybrid Cloud Solutions
+- Infrastructure as Code (IaC)
+- Security & Compliance
+- Cloud Cost Optimization
 
-I bridge the gap between Infrastructure, Cloud, Automation, and AI—building solutions that reduce manual effort, improve reliability, and help teams move faster.
+### 🏆 Key Highlights
+
+- 9+ Years in Cloud & Infrastructure
+- 50+ Workloads Migrated to Cloud Platforms
+- ~20% Infrastructure Cost Optimization
+- Enterprise Azure & AWS Experience
+- VMware & Citrix Specialist
+- PowerShell Automation Enthusiast
 
 > Automate. Optimize. Innovate.
 
----
+# 💻 Core Skills
 
-# 🌐 Connect With Me
+### ☁️ Cloud & Architecture
 
-<p align="left">
-<a href="https://github.com/chiragnk1133" target="blank">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add your LinkedIn URL -->
-<a href="#" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<!-- Add your Email -->
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### 🐍 Languages & Scripting
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### ☁️ Cloud Platforms
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🖥️ Infrastructure & Virtualization
 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Citrix](https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🤖 AI & Automation
+### ⚡ Automation
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### 🗄️ Databases
-
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+### 🔐 Security
 
-# 📊 GitHub Stats
+![WAF](https://img.shields.io/badge/Web_Application_Firewall-FF6B6B?style=for-the-badge)
+![DLP](https://img.shields.io/badge/DLP-4CAF50?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-FF9800?style=for-the-badge)
+![Zero_Trust](https://img.shields.io/badge/Zero_Trust-6A1B9A?style=for-the-badge)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chiragnk1133&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### 🤖 AI & Modern Technologies
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragnk1133&theme=tokyonight&hide_border=true" />
-</p>
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-00A86B?style=for-the-badge)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragnk1133&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+# 📜 Certifications
 
----
+🏅 AZ-800: Administering Windows Server Hybrid Core Infrastructure
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chiragnk1133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-# 🎯 Current Goals
-
-- Build practical AI-powered tools
-- Master AI Agents & Automation
-- Improve Cloud & Infrastructure expertise
-- Create open-source automation projects
-- Learn something new every day
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<p align="center">
-⭐ If you like my work, consider following my GitHub profile.
-</p>
+🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals
